@@ -1,3 +1,21 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://bharring.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Bradley's Eye: Travel, DIY and Design"
+theme = "hugo-uno"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = true
+canonifyurls = false
+footnotereturnlinkcontents = "?"
+ignoreFiles = [ "*~" ]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Bradley's Eye: Travel, DIY and Design"
+  author = "Bradley Harrington"
+  GitHubUser = "bharring"
+
