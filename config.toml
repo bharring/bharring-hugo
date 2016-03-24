@@ -8,7 +8,7 @@ publishdir = "public"
 builddrafts = true
 canonifyurls = false
 footnotereturnlinkcontents = "?"
-ignoreFiles = [ "*~" ]
+ignoreFiles = [ ".*~" ]
 
 [taxonomies]
   category = "categories"

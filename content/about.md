@@ -5,7 +5,6 @@ title = "about"
 
 +++
 
-## A headline
-
-Some Content
+## About Me
+I am a software engineer with a wide breadth of experience. I love to travel, especially to Spanish speaking countries, taking photographs and DIY everything! 
 
